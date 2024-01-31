@@ -25,6 +25,7 @@ baseurl: / # the subpath of your site, e.g. /blog
 domain: macbookguy.github.io
 url: https://macbookguy.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MacBookGuy
+repository: MacBookGuy/macbookguy.github.io
 
 # Build settings
 remote_theme: pages-themes/modernist@v0.2.0
